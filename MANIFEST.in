@@ -1,0 +1,5 @@
+global-include VERSION
+include LICENSE.md
+include README.md
+
+global-include geostatil/data/*.json
